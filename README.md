@@ -1,16 +1,20 @@
-### Hi there 👋
+[![Linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=anthnydeleon&color=f8efd4&style=for-the-badge&logo=LinkedIn&link=https://www.linkedin.com/in/anthnydeleon/)](https://www.linkedin.com/in/anthnydeleon/)
 
-<!--
-**anthnydeleon/anthnydeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+import Desenvolvedor from "anthnydeleon";
 
-Here are some ideas to get you started:
+class SobreMim extends Desenvolvedor {
+  nome = "Anthony Deleon";
+  idade = 22;
+  graduacao = "Ciência da Computação - UFABC";
+  stack = "Backend";
+  trabalho = "Estagiário de dados e analytics";
+  local = "Itaú Unibanco"
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends Desenvolvedor {
+  linguagens = ["C", "Java", "NodeJs", "Python", "SQL"];
+  frameworks = ["React", "Express"];
+  tecnologias = ["APIRest", "Git", "GitHub", "Banco de dados", "HTLM", "CSS", "ETLs"];
+}
+```
