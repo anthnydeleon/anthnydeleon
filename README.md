@@ -1,20 +1,17 @@
-[![Linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=anthnydeleon&color=f8efd4&style=for-the-badge&logo=LinkedIn&link=https://www.linkedin.com/in/anthnydeleon/)](https://www.linkedin.com/in/anthnydeleon/)
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlrOGVic2V5eGpqb283bjhyajl6cWNmOXN4ZHJhOWV4am96a3JmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HGQ4RWHYtw9Dmhj7mk/giphy.gif" width="23%" align="right" />
 
-```js
-import Desenvolvedor from "anthnydeleon";
-
-class SobreMim extends Desenvolvedor {
-  nome = "Anthony Deleon";
-  idade = 22;
-  graduacao = "Ciência da Computação - UFABC";
-  stack = "Backend";
-  trabalho = "Estagiário de dados e analytics";
-  local = "Itaú Unibanco"
-}
-
-class Skills extends Desenvolvedor {
-  linguagens = ["C", "Java", "NodeJs", "Python", "SQL"];
-  frameworks = ["React", "Express"];
-  tecnologias = ["APIRest", "Git", "GitHub", "Banco de dados", "HTLM", "CSS", "ETLs"];
-}
-```
+<pre>
+    Hello, hello!
+    
+    📚 Computer Science @ UFABC
+    💻 Data & analytics • Internship
+    🌐 C • Java • Python • NodeJs • React • SQL
+    📖 Software architecture • Data Structure • SpringBoot
+    🎮 Music • Games • Parties • Animes • Movies
+</pre>
+<br>
+    
+[![](https://img.shields.io/badge/Linkedin-0a66c2)](https://www.linkedin.com/in/anthnydeleon/)
+[![](https://img.shields.io/badge/Gmail-b02e2e)](mailto:anthonydeleon0000@gmail.com)
+</div>
